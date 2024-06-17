@@ -1,5 +1,6 @@
 ## Olá, Victor aqui!
 
+*PT*
 ###### Sobre mim
 
 Analista de Dados formado na EBAC, hoje mantendo o aprimoramento de habilidades analíticas e adquirindo proficiência em Python e linguagem SQL
@@ -7,7 +8,6 @@ Analista de Dados formado na EBAC, hoje mantendo o aprimoramento de habilidades 
 Gosto principalmente de trabalhar em projetos de análise interativa de dados e tenho proeficiência em Data Wrangling
 
 ###### Projetos
-
 ### [Telegram ETL](https://github.com/VictorCamolese/CompleteProjects/blob/main/loggi_project/loggi-project-complete.ipynb)
 ETL Completa de Dados sobre chats no Telegram
 
@@ -18,21 +18,33 @@ Análise de Dados para logística de entregas e coletas
 Análise Interativa de Dados junto com Google Data Studio sobre contaminação/controle da COVID-19 em 2021
 
 ### [Funcionários](https://github.com/VictorCamolese/CompleteProjects/blob/main/employees_data_inteligence/employes-data-intelgc.ipynb)
-Análise Interativa e Exploratória de Dados sobre a composição de funcionários em uma empresa específica
+Análise Interativa (com PowerBI) e Exploratória de Dados sobre a composição de funcionários em uma empresa específica
 
 ### [Análise de Crédito](https://github.com/VictorCamolese/CompleteProjects/blob/main/credit_sql_project/credit_eda_complete.ipynb)
 Uso de SQL para exploração de uma BigData de clientes de um banco específico
-<!--
-**VictorCamolese/VictorCamolese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
+*ENG*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###### About Me
+
+Data Analyst graduated from EBAC, currently enhancing my analytical skills and acquiring proficiency in Python and SQL.
+
+I particularly enjoy working on interactive data analysis projects and have proficiency in Data Wrangling.
+
+###### Projects
+
+### [Telegram ETL](https://github.com/VictorCamolese/CompleteProjects/blob/main/loggi_project/loggi-project-complete.ipynb)
+Complete Data ETL on Telegram chats
+
+### [LOGGI](https://github.com/VictorCamolese/CompleteProjects/blob/main/loggi_project/loggi-project-complete.ipynb)
+Data Analysis for logistics of deliveries and pickups
+
+### [COVID](https://github.com/VictorCamolese/CompleteProjects/blob/main/covid_project/covid-project-complete.ipynb)
+Interactive Data Analysis with Google Data Studio on COVID-19 contamination/control in 2021
+
+### [Employees](https://github.com/VictorCamolese/CompleteProjects/blob/main/employees_data_inteligence/employes-data-intelgc.ipynb)
+Interactive (with PowerBI) and Exploratory Data Analysis on the composition of employees in a specific company
+
+### [Credit Analysis](https://github.com/VictorCamolese/CompleteProjects/blob/main/credit_sql_project/credit_eda_complete.ipynb)
+Using SQL to explore Big Data of clients from a specific bank
