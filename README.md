@@ -5,9 +5,12 @@
 
 Analista de Dados formado na EBAC, hoje mantendo o aprimoramento de habilidades analíticas e adquirindo proficiência em Python e linguagem SQL
 
-Gosto principalmente de trabalhar em projetos de análise interativa de dados e tenho proeficiência em Data Wrangling
+Gosto principalmente de trabalhar em projetos de **análise interativa de dados** e tenho proeficiência em **Data Wrangling**
 
 ###### Projetos
+
+Abaixo os principais projetos em que criei, **[clique aqui](https://github.com/VictorCamolese/CompleteProjects)** para acessar meu repositório com todos os outros!
+
 ### [Telegram ETL](https://github.com/VictorCamolese/CompleteProjects/blob/main/loggi_project/loggi-project-complete.ipynb)
 ETL Completa de Dados sobre chats no Telegram
 
@@ -33,6 +36,8 @@ Data Analyst graduated from EBAC, currently enhancing my analytical skills and a
 I particularly enjoy working on interactive data analysis projects and have proficiency in Data Wrangling.
 
 ###### Projects
+
+Below are the main projects I have created, **[click here](https://github.com/VictorCamolese/CompleteProjects)** to access my repository with all the others!
 
 ### [Telegram ETL](https://github.com/VictorCamolese/CompleteProjects/blob/main/loggi_project/loggi-project-complete.ipynb)
 Complete Data ETL on Telegram chats
